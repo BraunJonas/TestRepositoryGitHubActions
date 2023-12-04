@@ -1,3 +1,3 @@
 # TestRepositoryGitHubActions
 
-npm install pa11y
+# npm install pa11y
